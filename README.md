@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A Financial and decision-making engineering student</h3>
-<img align="right" margin-top="200" alt="Coding" width="400" src="https://media.tenor.com/1LnewHaxjKUAAAAC/detective-conan-glasses.gif">
+<img align="right" topmargin="200" alt="Coding" width="400" src="https://media.tenor.com/1LnewHaxjKUAAAAC/detective-conan-glasses.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariaaboulaala&label=Profile%20views&color=0e75b6&style=flat" alt="mariaaboulaala" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maria_magoo" target="blank"><img src="https://img.shields.io/twitter/follow/maria_magoo?logo=twitter&style=for-the-badge" alt="maria_magoo" /></a> </p>
